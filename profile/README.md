@@ -3,6 +3,14 @@
 ## Our Mission
 
 Apex Fusion is an ecosystem of blockchains aimed to serve the builders and entrepreneurs looking to leverage blockchain technology in their products. The idea of Apex Fusion is to use battle-tested, proven technology to ensure stability and usability of the system to the highest possible degree. 
+Check out our [litepaper](https://apexfusion.org/apex-fusion-litepaper) to learn more about the scope and vision of the project.
+
+## Why choose Apex Fusion?
+**Battle tested technologies** - Apex Fusion’s cutting-edge architecture enables top-tier scalability, security, and developer-friendly features. This makes Apex Fusion the ideal choice for building decentralized applications.
+
+**Breaking the silos** - Apex Fusion interconnects isolated UTXO and account-based networks to unlock blockchain's full potential. By enabling effortless asset transfer, development, and growth across diverse protocols, Apex Fusion enchances potential for collaboration, innovation, and overall advancement of the Web3 ecosystem.
+
+**Usability and Flexibility** - Apex Fusion's multi-chain architecture addresses the blockchain trilemma by leveraging and unifying the best available blockchain technologies. The Prime Chain ensures security and decentralization which improves as the network scales. The Vector and Nexus chains support high-speed transactions, making them ideal for various applications from decentralized finance to gaming platforms. This architecture ensures efficient transaction processing by supporting high throughput without compromising on security.
 
 ## Our Projects
 
