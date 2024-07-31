@@ -22,7 +22,7 @@ If you have any questions, feedback, or business inquiries, feel free to reach o
 
 ## Social Media
 
-- Twitter - [@ApexFusion](https://twitter.com/ApexFusion)
+- X - [@ApexFusion](https://twitter.com/ApexFusion)
 - Discord - 
 - Telegram - 
 - Instagram - 
