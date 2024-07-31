@@ -16,7 +16,7 @@ We welcome contributions from the open-source community and value the power of c
 
 If you have any questions, feedback, or business inquiries, feel free to reach out to us:
 
-- Email - info@apexfusion.com
+- Email - [info@apexfusion.org](mailto:info@apexfusion.org)
 - Project - [apexfusion.org](https://apexfusion.org)
 - Foundation - [foundation.apexfusion.org](https://foundation.apexfusion.org)
 
