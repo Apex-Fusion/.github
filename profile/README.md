@@ -10,7 +10,7 @@ Apex Fusion is an ecosystem of blockchains aimed to serve the builders and entre
 
 ## Getting Involved
 
-We welcome contributions from the open-source community and value the power of collaboration. If you're interested in contributing to any of our projects, please check out our [contributing guidelines](link-to-contributing-guidelines) to get started.
+We welcome contributions from the open-source community and value the power of collaboration. If you're interested in contributing to any of our projects, please check out our [contributing guidelines](https://github.com/Apex-Fusion/.github/blob/main/CONTRIBUTING.md) to get started.
 
 ## Contact Us
 
