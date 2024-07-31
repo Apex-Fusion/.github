@@ -23,9 +23,9 @@ If you have any questions, feedback, or business inquiries, feel free to reach o
 ## Social Media
 
 - X - [@ApexFusion](https://twitter.com/ApexFusion)
-- Discord - 
-- Telegram - 
-- Instagram - 
+- Discord - [Apex Fusion](https://discord.gg/2nSBGyvjpZ)
+- Telegram - [Announcements Channel](https://t.me/apexfusion)
+- Instagram - [Apex Fusion](https://www.instagram.com/apexfusion)
 
 We look forward to connecting with you and exploring how we can collaborate to create something amazing!
 
