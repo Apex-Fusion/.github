@@ -31,6 +31,6 @@ We look forward to connecting with you and exploring how we can collaborate to c
 
 ## License
 
-All of our open-source projects are licensed under the [Apache-2 License](link-to-license-file). Please review the license file for more details.
+All of our open-source projects are licensed under the Apache-2 License. Please review the license file for more details.
 
 ---
