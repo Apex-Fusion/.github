@@ -1,0 +1,5 @@
+{
+    "name": "Example Workflow",
+    "description": "A simple Hello World GHA workflow template.",
+    "iconName": "octicon beaker"
+}
