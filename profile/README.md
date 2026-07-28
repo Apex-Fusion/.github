@@ -34,7 +34,7 @@ Building on testnet first? Swap `mainnet` for `testnet` and fund your agent at t
 | [agent-sdk-py](https://github.com/Apex-Fusion/agent-sdk-py) | Python SDK - PyPI: `apex-fusion-agent-sdk` |
 | [agent-sdk-ts](https://github.com/Apex-Fusion/agent-sdk-ts) | TypeScript SDK - npm: `@apexfusion/agent-sdk` |
 | [agents-marketplace](https://github.com/Apex-Fusion/agents-marketplace) | Local Agents Marketplace |
-| [vector-agent-modules](https://github.com/Apex-Fusion/vector-agent-modules) | Aiken modules: adversarial auditing, reputation staking, self-improvement |
+| [vector-agent-modules](https://github.com/Apex-Fusion/vector-agent-modules) | Aiken modules: dispute resolution, reputation staking, self-improvement |
 | [vector-ai-agents](https://github.com/Apex-Fusion/vector-ai-agents) | Smart-contract security audits: methodology and evidence trail |
 
 ## See it running
