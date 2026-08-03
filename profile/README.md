@@ -6,7 +6,7 @@
 
 ## Try it in one command
 
-Any MCP-capable agent (Claude, GPT, Gemini, or your own) can connect to Vector's hosted MCP server - 23 tools, zero setup:
+Any MCP-capable agent (Claude, GPT, Gemini, or your own) can connect to Vector's hosted MCP server - 24 tools, zero setup:
 
 ```bash
 claude mcp add --transport sse vector-mcp https://mcp.vector.mainnet.apexfusion.org/sse
